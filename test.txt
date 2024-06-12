@@ -1,1 +1,1 @@
-Test txt extension file
+Test txt extension file. Adding a new line
